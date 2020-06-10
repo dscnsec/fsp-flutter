@@ -50,7 +50,7 @@ class HomePage extends StatelessWidget {
           //text styling. Here, used to increase the font size denoted
           //in floating-point decimal pixels
           style: TextStyle(
-            fontSize: 92.0,
+            fontSize: 60.0,
           ),
         ),
       ),
